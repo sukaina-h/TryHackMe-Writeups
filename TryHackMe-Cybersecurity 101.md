@@ -2,7 +2,6 @@
 
 This repository documents my hands-on learning from the TryHackMe Cyber Security 101 path.
 
-## Timeline
 ## Completed Rooms
 
 | Room | Platform | Completion Date |
@@ -13,12 +12,6 @@ This repository documents my hands-on learning from the TryHackMe Cyber Security
 | Command Line | TryHackMe | December 2025 |
 | Networking Fundamentals | TryHackMe | December 2025 |
 
-## Completed Rooms
-- Introduction to Cybersecurity
-- Linux Fundamentals
-- Windows & Active Directory Fundamentals
-- Command Line
-- Networking Fundamentals
 
 ## Skills Developed
 - Linux and Windows fundamentals
